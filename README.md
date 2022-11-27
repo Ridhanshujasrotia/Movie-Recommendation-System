@@ -9,3 +9,4 @@ Libraries:- Numpy, Pandas, ast, nltk, sklearn, streamlit(for frontend)
 
 Hosting                                                                                                                                                                   
 Project has been hosted on heroku platform
+https://ridhanshu-recommendation.herokuapp.com/
